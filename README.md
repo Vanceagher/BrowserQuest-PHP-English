@@ -1,4 +1,4 @@
-# BrowserQuest-PHP
+# BrowserQuest-PHP-English
 BrowserQuest server in PHP
 
 ![BrowserQuest width workerman](https://github.com/walkor/BrowserQuest-PHP/blob/master/Web/img/screenshot.jpg?raw=true)
