@@ -11,13 +11,14 @@ BrowserQuest server in PHP
 3 Edit `Web/config/config_local.json` to change the host to your computer's IP ([How do I get my IP?](https://www.businessinsider.com/how-to-find-ip-address-on-windows))
 
 ## Start and Stop for Linux
-Start in debug mode ```php start.php start``` <br>
-Start in daemon mode ```php start.php start -d```  <br>
-Check status ```php start.php status```   <br>
-Stop ```php start.php stop```  <br>
+
+| Start in debug mode  | `php start.php start`    |
+| Start in daemon mode | `php start.php start -d` |
+| Check status         | `php start.php status`   |
+| Stop                 | `php start.php stop`     |
 
 ## How to play
-Go to [here](http://localhost:8787/) if you set the host to your computer's IP
+Go to [here](http://localhost:8787/)
 
 ## Start and Stop for Windows
 Double click start_for_win.bat for start.
