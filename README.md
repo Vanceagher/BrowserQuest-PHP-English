@@ -25,6 +25,6 @@ Double click start_for_win.bat for start.
 Press ctrl + c to stop.
 
 ## Description
-The game [BrowserQuest](https://github.com/mozilla/BrowserQuest) was odified, mainly to use php for the back-end nodejs part（[workerman](https://github.com/walkor/workerman)）rewrite.
+The game [BrowserQuest](https://github.com/mozilla/BrowserQuest) was modified, mainly to use php for the back-end nodejs part（[workerman](https://github.com/walkor/workerman)）rewrite.
 
-## [Original Repo](https://github.com/mozilla/BrowserQuest)
+##3 [Original Repo](https://github.com/mozilla/BrowserQuest)
