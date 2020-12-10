@@ -27,4 +27,4 @@ Press ctrl + c to stop.
 ## Description
 The game [BrowserQuest](https://github.com/mozilla/BrowserQuest) was modified, mainly to use php for the back-end nodejs part（[workerman](https://github.com/walkor/workerman)）rewrite.
 
-##3 [Original Repo](https://github.com/mozilla/BrowserQuest)
+### [Original Repo](https://github.com/mozilla/BrowserQuest)
