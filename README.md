@@ -18,7 +18,7 @@ BrowserQuest server in PHP
 | Stop                 | `php start.php stop`     |
 
 ## How to play
-Go to [here](http://localhost:8787/)
+Go [here](http://localhost:8787/)
 
 ## Start and Stop for Windows
 Double click start_for_win.bat for start.
