@@ -10,8 +10,8 @@ BrowserQuest server in PHP
 
 3 Edit `Web/config/config_local.json` to change the host to your computer's IP ([How do I get my IP?](https://www.businessinsider.com/how-to-find-ip-address-on-windows))
 
-## Start and Stop for Linux
-
+| Start and Stop for Linux |                      |                   
+|----------------------|--------------------------|
 | Start in debug mode  | `php start.php start`    |
 | Start in daemon mode | `php start.php start -d` |
 | Check status         | `php start.php status`   |
